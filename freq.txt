@@ -1,0 +1,1552 @@
+频繁模式：['region_2:Central Coast'] 支持度：90525
+
+频繁模式：['country:Italy'] 支持度：19540
+
+频繁模式：['region_2:Central Coast', 'country:Italy'] 支持度：19540
+
+频繁模式：['designation:Reserve', 'country:Italy'] 支持度：5653
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:Italy'] 支持度：5653
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:Italy'] 支持度：8595
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:Italy'] 支持度：8595
+
+频繁模式：['taster_name:Roger Voss', 'country:Italy'] 支持度：8595
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:Italy'] 支持度：8595
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:Italy'] 支持度：8595
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:Italy'] 支持度：8595
+
+频繁模式：['points:87'] 支持度：16933
+
+频繁模式：['region_2:Central Coast', 'points:87'] 支持度：12055
+
+频繁模式：['country:Italy', 'points:87'] 支持度：3442
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'points:87'] 支持度：3442
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:87'] 支持度：7928
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:87'] 支持度：5939
+
+频繁模式：['taster_name:Roger Voss', 'points:87'] 支持度：7122
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:87'] 支持度：5629
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:87'] 支持度：7122
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:87'] 支持度：5629
+
+频繁模式：['region_1:Napa Valley', 'points:87'] 支持度：3166
+
+频繁模式：['country:US', 'points:87'] 支持度：6638
+
+频繁模式：['designation:Reserve', 'points:87'] 支持度：5920
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'points:87'] 支持度：3923
+
+频繁模式：['province:California', 'points:87'] 支持度：4151
+
+频繁模式：['country:US', 'province:California', 'points:87'] 支持度：4151
+
+频繁模式：['price:20.0'] 支持度：15936
+
+频繁模式：['region_2:Central Coast', 'price:20.0'] 支持度：13835
+
+频繁模式：['country:Italy', 'price:20.0'] 支持度：3581
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'price:20.0'] 支持度：3581
+
+频繁模式：['designation:Reserve', 'price:20.0'] 支持度：5269
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'price:20.0'] 支持度：3361
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'price:20.0'] 支持度：3019
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'price:20.0'] 支持度：3235
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'price:20.0'] 支持度：3235
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'price:20.0'] 支持度：4383
+
+频繁模式：['taster_twitter_handle:@vossroger', 'price:20.0'] 支持度：10046
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'price:20.0'] 支持度：9311
+
+频繁模式：['taster_name:Roger Voss', 'price:20.0'] 支持度：9619
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'price:20.0'] 支持度：9120
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'price:20.0'] 支持度：9619
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'price:20.0'] 支持度：9120
+
+频繁模式：['country:France', 'price:20.0'] 支持度：5498
+
+频繁模式：['region_2:Central Coast', 'country:France', 'price:20.0'] 支持度：5498
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['taster_name:Roger Voss', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'price:20.0'] 支持度：5207
+
+频繁模式：['region_1:Napa Valley', 'price:20.0'] 支持度：3120
+
+频繁模式：['taster_name:Kerin O’Keefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'taster_name:Kerin O’Keefe'] 支持度：10776
+
+频繁模式：['country:Italy', 'taster_name:Kerin O’Keefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_name:Kerin O’Keefe'] 支持度：10776
+
+频繁模式：['designation:Reserve', 'country:Italy', 'taster_name:Kerin O’Keefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:Italy', 'taster_name:Kerin O’Keefe'] 支持度：3227
+
+频繁模式：['designation:Reserve', 'taster_name:Kerin O’Keefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_name:Kerin O’Keefe'] 支持度：3227
+
+频繁模式：['taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['country:Italy', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['designation:Reserve', 'country:Italy', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:Italy', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：10776
+
+频繁模式：['designation:Reserve', 'country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['designation:Reserve', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['designation:Reserve', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_twitter_handle:@kerinokeefe'] 支持度：3227
+
+频繁模式：['taster_twitter_handle:@vossroger'] 支持度：56727
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger'] 支持度：43178
+
+频繁模式：['taster_name:Roger Voss'] 支持度：51758
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss'] 支持度：40563
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss'] 支持度：51758
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss'] 支持度：40563
+
+频繁模式：['country:US', 'taster_name:Roger Voss'] 支持度：16778
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss'] 支持度：16778
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss'] 支持度：5583
+
+频繁模式：['region_2:Central Coast', 'country:US', 'taster_name:Roger Voss'] 支持度：5583
+
+频繁模式：['region_1:Napa Valley'] 支持度：25727
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley'] 支持度：21247
+
+频繁模式：['taster_twitter_handle:@vossroger', 'region_1:Napa Valley'] 支持度：11852
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'region_1:Napa Valley'] 支持度：9227
+
+频繁模式：['taster_name:Roger Voss', 'region_1:Napa Valley'] 支持度：9871
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'region_1:Napa Valley'] 支持度：7246
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_1:Napa Valley'] 支持度：9871
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_1:Napa Valley'] 支持度：7246
+
+频繁模式：['country:US', 'region_1:Napa Valley'] 支持度：4821
+
+频繁模式：['province:California', 'region_1:Napa Valley'] 支持度：4545
+
+频繁模式：['country:US', 'province:California', 'region_1:Napa Valley'] 支持度：4545
+
+频繁模式：['designation:Reserve', 'region_1:Napa Valley'] 支持度：6069
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'region_1:Napa Valley'] 支持度：4074
+
+频繁模式：['price:15.0'] 支持度：6066
+
+频繁模式：['region_2:Central Coast', 'price:15.0'] 支持度：4722
+
+频繁模式：['country:Portugal'] 支持度：5691
+
+频繁模式：['region_2:Central Coast', 'country:Portugal'] 支持度：5691
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:Portugal'] 支持度：5663
+
+频繁模式：['taster_name:Roger Voss', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:Portugal'] 支持度：5663
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_1:Napa Valley', 'country:Portugal'] 支持度：5691
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5691
+
+频繁模式：['taster_twitter_handle:@vossroger', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['taster_name:Roger Voss', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_1:Napa Valley', 'country:Portugal'] 支持度：5663
+
+频繁模式：['country:US'] 支持度：54567
+
+频繁模式：['region_2:Central Coast', 'country:US'] 支持度：15121
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US'] 支持度：19767
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:US'] 支持度：6218
+
+频繁模式：['designation:Reserve'] 支持度：39474
+
+频繁模式：['country:US', 'designation:Reserve'] 支持度：19095
+
+频繁模式：['region_2:Central Coast', 'country:US', 'designation:Reserve'] 支持度：4871
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'designation:Reserve'] 支持度：7688
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve'] 支持度：25250
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve'] 支持度：18123
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve'] 支持度：12619
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve'] 支持度：16859
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve'] 支持度：12177
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve'] 支持度：16859
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve'] 支持度：12177
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'designation:Reserve'] 支持度：6605
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'designation:Reserve'] 支持度：6605
+
+频繁模式：['taster_name:Paul Gregutt'] 支持度：9532
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt'] 支持度：9304
+
+频繁模式：['designation:Reserve', 'taster_name:Paul Gregutt'] 支持度：3293
+
+频繁模式：['country:US', 'designation:Reserve', 'taster_name:Paul Gregutt'] 支持度：3206
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0'] 支持度：9532
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：9304
+
+频繁模式：['designation:Reserve', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：3293
+
+频繁模式：['country:US', 'designation:Reserve', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：3206
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：9532
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：9304
+
+频繁模式：['designation:Reserve', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：3293
+
+频繁模式：['country:US', 'designation:Reserve', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0'] 支持度：3206
+
+频繁模式：['province:Oregon'] 支持度：5373
+
+频繁模式：['country:US', 'province:Oregon'] 支持度：5373
+
+频繁模式：['taster_name:Paul Gregutt', 'province:Oregon'] 支持度：5061
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'province:Oregon'] 支持度：5061
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'province:Oregon'] 支持度：5061
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon'] 支持度：5061
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon'] 支持度：5061
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon'] 支持度：5061
+
+频繁模式：['region_2:Willamette Valley'] 支持度：3423
+
+频繁模式：['country:US', 'region_2:Willamette Valley'] 支持度：3423
+
+频繁模式：['taster_name:Paul Gregutt', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['province:Oregon', 'region_2:Willamette Valley'] 支持度：3423
+
+频繁模式：['country:US', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3423
+
+频繁模式：['taster_name:Paul Gregutt', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Oregon', 'region_2:Willamette Valley'] 支持度：3342
+
+频繁模式：['price:14.0'] 支持度：3215
+
+频繁模式：['variety:Riesling'] 支持度：5189
+
+频繁模式：['region_2:Central Coast', 'variety:Riesling'] 支持度：3722
+
+频繁模式：['price:13.0'] 支持度：3549
+
+频繁模式：['variety:Pinot Noir'] 支持度：13273
+
+频繁模式：['country:US', 'variety:Pinot Noir'] 支持度：9888
+
+频繁模式：['region_2:Central Coast', 'country:US', 'variety:Pinot Noir'] 支持度：3546
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'variety:Pinot Noir'] 支持度：3042
+
+频繁模式：['designation:Reserve', 'variety:Pinot Noir'] 支持度：3662
+
+频繁模式：['province:California', 'variety:Pinot Noir'] 支持度：6899
+
+频繁模式：['country:US', 'province:California', 'variety:Pinot Noir'] 支持度：6899
+
+频繁模式：['region_2:Central Coast', 'country:US', 'province:California', 'variety:Pinot Noir'] 支持度：3280
+
+频繁模式：['region_2:Central Coast', 'province:California', 'variety:Pinot Noir'] 支持度：3280
+
+频繁模式：['region_2:Central Coast', 'variety:Pinot Noir'] 支持度：6931
+
+频繁模式：['taster_twitter_handle:@vossroger', 'variety:Pinot Noir'] 支持度：5039
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'variety:Pinot Noir'] 支持度：3289
+
+频繁模式：['taster_name:Roger Voss', 'variety:Pinot Noir'] 支持度：4826
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'variety:Pinot Noir'] 支持度：3212
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Pinot Noir'] 支持度：4826
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Pinot Noir'] 支持度：3212
+
+频繁模式：['taster_name:Michael Schachner'] 支持度：15134
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner'] 支持度：15066
+
+频繁模式：['region_1:Napa Valley', 'taster_name:Michael Schachner'] 支持度：4657
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_name:Michael Schachner'] 支持度：4657
+
+频繁模式：['designation:Reserve', 'taster_name:Michael Schachner'] 支持度：3114
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_name:Michael Schachner'] 支持度：3085
+
+频繁模式：['taster_twitter_handle:@wineschach'] 支持度：15134
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach'] 支持度：15066
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：15134
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：15066
+
+频繁模式：['region_1:Napa Valley', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：4657
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：4657
+
+频繁模式：['designation:Reserve', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：3114
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach'] 支持度：3085
+
+频繁模式：['region_1:Napa Valley', 'taster_twitter_handle:@wineschach'] 支持度：4657
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_twitter_handle:@wineschach'] 支持度：4657
+
+频繁模式：['designation:Reserve', 'taster_twitter_handle:@wineschach'] 支持度：3114
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'taster_twitter_handle:@wineschach'] 支持度：3085
+
+频繁模式：['country:Spain'] 支持度：6645
+
+频繁模式：['region_2:Central Coast', 'country:Spain'] 支持度：6645
+
+频繁模式：['taster_name:Michael Schachner', 'country:Spain'] 支持度：6575
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'country:Spain'] 支持度：6575
+
+频繁模式：['taster_twitter_handle:@wineschach', 'country:Spain'] 支持度：6575
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'country:Spain'] 支持度：6575
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Spain'] 支持度：6575
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Spain'] 支持度：6575
+
+频繁模式：['province:Northern Spain'] 支持度：3851
+
+频繁模式：['region_2:Central Coast', 'province:Northern Spain'] 支持度：3851
+
+频繁模式：['taster_name:Michael Schachner', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['taster_twitter_handle:@wineschach', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['country:Spain', 'province:Northern Spain'] 支持度：3851
+
+频繁模式：['region_2:Central Coast', 'country:Spain', 'province:Northern Spain'] 支持度：3851
+
+频繁模式：['taster_name:Michael Schachner', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['taster_twitter_handle:@wineschach', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Spain', 'province:Northern Spain'] 支持度：3822
+
+频繁模式：['price:16.0'] 支持度：3547
+
+频繁模式：['country:France'] 支持度：22093
+
+频繁模式：['region_2:Central Coast', 'country:France'] 支持度：22093
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France'] 支持度：18867
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France'] 支持度：18867
+
+频繁模式：['taster_name:Roger Voss', 'country:France'] 支持度：18867
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France'] 支持度：18867
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France'] 支持度：18867
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France'] 支持度：18867
+
+频繁模式：['designation:Reserve', 'country:France'] 支持度：7580
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:France'] 支持度：7580
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France'] 支持度：6841
+
+频繁模式：['taster_name:Anna Lee C. Iijima'] 支持度：4415
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Anna Lee C. Iijima'] 支持度：4415
+
+频繁模式：['price:12.0'] 支持度：3934
+
+频繁模式：['region_2:Central Coast', 'price:12.0'] 支持度：3132
+
+频繁模式：['province:California'] 支持度：36310
+
+频繁模式：['country:US', 'province:California'] 支持度：36310
+
+频繁模式：['region_2:Central Coast', 'country:US', 'province:California'] 支持度：13256
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'province:California'] 支持度：16077
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:US', 'province:California'] 支持度：5017
+
+频繁模式：['designation:Reserve', 'province:California'] 支持度：12799
+
+频繁模式：['country:US', 'designation:Reserve', 'province:California'] 支持度：12799
+
+频繁模式：['region_2:Central Coast', 'country:US', 'designation:Reserve', 'province:California'] 支持度：4183
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'province:California'] 支持度：4183
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'designation:Reserve', 'province:California'] 支持度：6285
+
+频繁模式：['region_2:Central Coast', 'province:California'] 支持度：13256
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:California'] 支持度：16077
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'province:California'] 支持度：5017
+
+频繁模式：['taster_name:Roger Voss', 'province:California'] 支持度：16077
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:California'] 支持度：16077
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:California'] 支持度：5017
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'province:California'] 支持度：16077
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'province:California'] 支持度：16077
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'province:California'] 支持度：5017
+
+频繁模式：['region_2:Central Coast', 'country:US', 'taster_name:Roger Voss', 'province:California'] 支持度：5017
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'province:California'] 支持度：5017
+
+频繁模式：['taster_name:Virginie Boone'] 支持度：9537
+
+频繁模式：['country:US', 'taster_name:Virginie Boone'] 支持度：9537
+
+频繁模式：['province:California', 'taster_name:Virginie Boone'] 支持度：9532
+
+频繁模式：['country:US', 'province:California', 'taster_name:Virginie Boone'] 支持度：9532
+
+频繁模式：['taster_twitter_handle:@vboone'] 支持度：9537
+
+频繁模式：['country:US', 'taster_twitter_handle:@vboone'] 支持度：9537
+
+频繁模式：['province:California', 'taster_twitter_handle:@vboone'] 支持度：9532
+
+频繁模式：['country:US', 'province:California', 'taster_twitter_handle:@vboone'] 支持度：9532
+
+频繁模式：['taster_name:Virginie Boone', 'taster_twitter_handle:@vboone'] 支持度：9537
+
+频繁模式：['country:US', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone'] 支持度：9537
+
+频繁模式：['province:California', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone'] 支持度：9532
+
+频繁模式：['country:US', 'province:California', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone'] 支持度：9532
+
+频繁模式：['variety:Cabernet Sauvignon'] 支持度：9472
+
+频繁模式：['country:US', 'variety:Cabernet Sauvignon'] 支持度：7317
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'variety:Cabernet Sauvignon'] 支持度：3137
+
+频繁模式：['province:California', 'variety:Cabernet Sauvignon'] 支持度：5695
+
+频繁模式：['country:US', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：5695
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['taster_name:Roger Voss', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'province:California', 'variety:Cabernet Sauvignon'] 支持度：3011
+
+频繁模式：['designation:Reserve', 'variety:Cabernet Sauvignon'] 支持度：4146
+
+频繁模式：['country:US', 'designation:Reserve', 'variety:Cabernet Sauvignon'] 支持度：3534
+
+频繁模式：['region_2:Central Coast', 'variety:Cabernet Sauvignon'] 支持度：3218
+
+频繁模式：['taster_twitter_handle:@vossroger', 'variety:Cabernet Sauvignon'] 支持度：3359
+
+频繁模式：['taster_name:Roger Voss', 'variety:Cabernet Sauvignon'] 支持度：3250
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Cabernet Sauvignon'] 支持度：3250
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'variety:Cabernet Sauvignon'] 支持度：3042
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'variety:Cabernet Sauvignon'] 支持度：3042
+
+频繁模式：['region_2:Napa'] 支持度：6814
+
+频繁模式：['country:US', 'region_2:Napa'] 支持度：6814
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['province:California', 'region_2:Napa'] 支持度：6814
+
+频繁模式：['country:US', 'province:California', 'region_2:Napa'] 支持度：6814
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_name:Roger Voss', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'province:California', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['region_1:Napa Valley', 'region_2:Napa'] 支持度：4480
+
+频繁模式：['country:US', 'region_1:Napa Valley', 'region_2:Napa'] 支持度：4480
+
+频繁模式：['province:California', 'region_1:Napa Valley', 'region_2:Napa'] 支持度：4480
+
+频繁模式：['country:US', 'province:California', 'region_1:Napa Valley', 'region_2:Napa'] 支持度：4480
+
+频繁模式：['variety:Cabernet Sauvignon', 'region_2:Napa'] 支持度：3153
+
+频繁模式：['country:US', 'variety:Cabernet Sauvignon', 'region_2:Napa'] 支持度：3153
+
+频繁模式：['province:California', 'variety:Cabernet Sauvignon', 'region_2:Napa'] 支持度：3153
+
+频繁模式：['country:US', 'province:California', 'variety:Cabernet Sauvignon', 'region_2:Napa'] 支持度：3153
+
+频繁模式：['taster_twitter_handle:@vossroger', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_name:Roger Voss', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'region_2:Napa'] 支持度：3877
+
+频繁模式：['price:30.0'] 支持度：4951
+
+频繁模式：['region_2:Central Coast', 'price:30.0'] 支持度：3124
+
+频繁模式：['region_2:Sonoma'] 支持度：9028
+
+频繁模式：['country:US', 'region_2:Sonoma'] 支持度：9028
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['province:California', 'region_2:Sonoma'] 支持度：9028
+
+频繁模式：['country:US', 'province:California', 'region_2:Sonoma'] 支持度：9028
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_name:Roger Voss', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'province:California', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_name:Virginie Boone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'taster_name:Virginie Boone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['province:California', 'taster_name:Virginie Boone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'province:California', 'taster_name:Virginie Boone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['province:California', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'province:California', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['taster_name:Virginie Boone', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['province:California', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['country:US', 'province:California', 'taster_name:Virginie Boone', 'taster_twitter_handle:@vboone', 'region_2:Sonoma'] 支持度：4309
+
+频繁模式：['taster_twitter_handle:@vossroger', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_name:Roger Voss', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['country:US', 'taster_name:Roger Voss', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:US', 'taster_name:Roger Voss', 'region_2:Sonoma'] 支持度：4558
+
+频繁模式：['variety:Chardonnay'] 支持度：11753
+
+频繁模式：['region_2:Central Coast', 'variety:Chardonnay'] 支持度：7062
+
+频繁模式：['country:US', 'variety:Chardonnay'] 支持度：6804
+
+频繁模式：['designation:Reserve', 'variety:Chardonnay'] 支持度：4237
+
+频繁模式：['province:California', 'variety:Chardonnay'] 支持度：5186
+
+频繁模式：['country:US', 'province:California', 'variety:Chardonnay'] 支持度：5186
+
+频繁模式：['taster_twitter_handle:@vossroger', 'variety:Chardonnay'] 支持度：5954
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'variety:Chardonnay'] 支持度：4100
+
+频繁模式：['taster_name:Roger Voss', 'variety:Chardonnay'] 支持度：5596
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Chardonnay'] 支持度：5596
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Chardonnay'] 支持度：4004
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'variety:Chardonnay'] 支持度：4004
+
+频繁模式：['taster_name:Matt Kettmann'] 支持度：6332
+
+频繁模式：['region_2:Central Coast', 'taster_name:Matt Kettmann'] 支持度：6023
+
+频繁模式：['country:US', 'taster_name:Matt Kettmann'] 支持度：6331
+
+频繁模式：['region_2:Central Coast', 'country:US', 'taster_name:Matt Kettmann'] 支持度：6022
+
+频繁模式：['province:California', 'taster_name:Matt Kettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'province:California', 'taster_name:Matt Kettmann'] 支持度：6021
+
+频繁模式：['country:US', 'province:California', 'taster_name:Matt Kettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'country:US', 'province:California', 'taster_name:Matt Kettmann'] 支持度：6021
+
+频繁模式：['taster_twitter_handle:@mattkettmann'] 支持度：6332
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@mattkettmann'] 支持度：6023
+
+频繁模式：['country:US', 'taster_twitter_handle:@mattkettmann'] 支持度：6331
+
+频繁模式：['region_2:Central Coast', 'country:US', 'taster_twitter_handle:@mattkettmann'] 支持度：6022
+
+频繁模式：['province:California', 'taster_twitter_handle:@mattkettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'province:California', 'taster_twitter_handle:@mattkettmann'] 支持度：6021
+
+频繁模式：['country:US', 'province:California', 'taster_twitter_handle:@mattkettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'country:US', 'province:California', 'taster_twitter_handle:@mattkettmann'] 支持度：6021
+
+频繁模式：['taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6332
+
+频繁模式：['region_2:Central Coast', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6023
+
+频繁模式：['country:US', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6331
+
+频繁模式：['region_2:Central Coast', 'country:US', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6022
+
+频繁模式：['province:California', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'province:California', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6021
+
+频繁模式：['country:US', 'province:California', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6330
+
+频繁模式：['region_2:Central Coast', 'country:US', 'province:California', 'taster_name:Matt Kettmann', 'taster_twitter_handle:@mattkettmann'] 支持度：6021
+
+频繁模式：['country:Argentina'] 支持度：3800
+
+频繁模式：['region_2:Central Coast', 'country:Argentina'] 支持度：3800
+
+频繁模式：['taster_name:Michael Schachner', 'country:Argentina'] 支持度：3797
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'country:Argentina'] 支持度：3797
+
+频繁模式：['taster_twitter_handle:@wineschach', 'country:Argentina'] 支持度：3797
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'country:Argentina'] 支持度：3797
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Argentina'] 支持度：3797
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Argentina'] 支持度：3797
+
+频繁模式：['province:Mendoza Province'] 支持度：3264
+
+频繁模式：['region_2:Central Coast', 'province:Mendoza Province'] 支持度：3264
+
+频繁模式：['taster_name:Michael Schachner', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['taster_twitter_handle:@wineschach', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['country:Argentina', 'province:Mendoza Province'] 支持度：3264
+
+频繁模式：['region_2:Central Coast', 'country:Argentina', 'province:Mendoza Province'] 支持度：3264
+
+频繁模式：['taster_name:Michael Schachner', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['taster_twitter_handle:@wineschach', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Argentina', 'province:Mendoza Province'] 支持度：3261
+
+频繁模式：['variety:Red Blend'] 支持度：8946
+
+频繁模式：['region_2:Central Coast', 'variety:Red Blend'] 支持度：6750
+
+频繁模式：['country:Italy', 'variety:Red Blend'] 支持度：3624
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'variety:Red Blend'] 支持度：3624
+
+频繁模式：['price:22.0'] 支持度：3357
+
+频繁模式：['variety:Merlot'] 支持度：3102
+
+频繁模式：['price:35.0'] 支持度：3801
+
+频繁模式：['price:10.0'] 支持度：3439
+
+频繁模式：['price:17.0'] 支持度：3053
+
+频繁模式：['points:86'] 支持度：12600
+
+频繁模式：['country:US', 'points:86'] 支持度：4931
+
+频繁模式：['designation:Reserve', 'points:86'] 支持度：4550
+
+频繁模式：['province:California', 'points:86'] 支持度：3214
+
+频繁模式：['country:US', 'province:California', 'points:86'] 支持度：3214
+
+频繁模式：['region_2:Central Coast', 'points:86'] 支持度：9000
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:86'] 支持度：6039
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:86'] 支持度：4549
+
+频繁模式：['taster_name:Roger Voss', 'points:86'] 支持度：5465
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:86'] 支持度：4294
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:86'] 支持度：5465
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:86'] 支持度：4294
+
+频繁模式：['price:50.0'] 支持度：3334
+
+频繁模式：['variety:Sauvignon Blanc'] 支持度：4967
+
+频繁模式：['region_2:Central Coast', 'variety:Sauvignon Blanc'] 支持度：3423
+
+频繁模式：['country:Chile'] 支持度：4472
+
+频繁模式：['region_2:Central Coast', 'country:Chile'] 支持度：4472
+
+频繁模式：['region_1:Napa Valley', 'country:Chile'] 支持度：4472
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'country:Chile'] 支持度：4472
+
+频繁模式：['taster_name:Michael Schachner', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_1:Napa Valley', 'taster_name:Michael Schachner', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_name:Michael Schachner', 'country:Chile'] 支持度：4337
+
+频繁模式：['taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_1:Napa Valley', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_1:Napa Valley', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'taster_name:Michael Schachner', 'taster_twitter_handle:@wineschach', 'country:Chile'] 支持度：4337
+
+频繁模式：['price:40.0'] 支持度：3872
+
+频繁模式：['points:85'] 支持度：9530
+
+频繁模式：['region_2:Central Coast', 'points:85'] 支持度：6882
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:85'] 支持度：5019
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:85'] 支持度：3775
+
+频繁模式：['taster_name:Roger Voss', 'points:85'] 支持度：4615
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:85'] 支持度：3618
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:85'] 支持度：4615
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:85'] 支持度：3618
+
+频繁模式：['country:US', 'points:85'] 支持度：3685
+
+频繁模式：['designation:Reserve', 'points:85'] 支持度：3711
+
+频繁模式：['province:Bordeaux'] 支持度：5941
+
+频繁模式：['region_2:Central Coast', 'province:Bordeaux'] 支持度：5941
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['taster_name:Roger Voss', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['country:France', 'province:Bordeaux'] 支持度：5941
+
+频繁模式：['region_2:Central Coast', 'country:France', 'province:Bordeaux'] 支持度：5941
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['taster_name:Roger Voss', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'province:Bordeaux'] 支持度：5924
+
+频繁模式：['designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3931
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3931
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['designation:Reserve', 'province:Bordeaux'] 支持度：3931
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'province:Bordeaux'] 支持度：3931
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'province:Bordeaux'] 支持度：3919
+
+频繁模式：['variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4617
+
+频繁模式：['region_2:Central Coast', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4617
+
+频繁模式：['designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3101
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3101
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4617
+
+频繁模式：['region_2:Central Coast', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4617
+
+频繁模式：['designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3101
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3101
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：3092
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['taster_twitter_handle:@vossroger', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend', 'province:Bordeaux'] 支持度：4604
+
+频繁模式：['province:Washington'] 支持度：8639
+
+频繁模式：['country:US', 'province:Washington'] 支持度：8639
+
+频繁模式：['taster_name:Paul Gregutt', 'province:Washington'] 支持度：4073
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'province:Washington'] 支持度：4073
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'province:Washington'] 支持度：4073
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington'] 支持度：4073
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington'] 支持度：4073
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington'] 支持度：4073
+
+频繁模式：['region_2:Columbia Valley'] 支持度：8103
+
+频繁模式：['country:US', 'region_2:Columbia Valley'] 支持度：8103
+
+频繁模式：['province:Washington', 'region_2:Columbia Valley'] 支持度：8103
+
+频繁模式：['country:US', 'province:Washington', 'region_2:Columbia Valley'] 支持度：8103
+
+频繁模式：['taster_name:Paul Gregutt', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'province:Washington', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_name:Paul Gregutt', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_twitter_handle:@paulgwine\xa0', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['country:US', 'taster_name:Paul Gregutt', 'taster_twitter_handle:@paulgwine\xa0', 'region_2:Columbia Valley'] 支持度：3831
+
+频繁模式：['taster_name:Sean P. Sullivan'] 支持度：4966
+
+频繁模式：['country:US', 'taster_name:Sean P. Sullivan'] 支持度：4934
+
+频繁模式：['province:Washington', 'taster_name:Sean P. Sullivan'] 支持度：4554
+
+频繁模式：['country:US', 'province:Washington', 'taster_name:Sean P. Sullivan'] 支持度：4554
+
+频繁模式：['region_2:Columbia Valley', 'taster_name:Sean P. Sullivan'] 支持度：4261
+
+频繁模式：['country:US', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan'] 支持度：4261
+
+频繁模式：['province:Washington', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan'] 支持度：4261
+
+频繁模式：['country:US', 'province:Washington', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan'] 支持度：4261
+
+频繁模式：['taster_twitter_handle:@wawinereport'] 支持度：4966
+
+频繁模式：['country:US', 'taster_twitter_handle:@wawinereport'] 支持度：4934
+
+频繁模式：['province:Washington', 'taster_twitter_handle:@wawinereport'] 支持度：4554
+
+频繁模式：['country:US', 'province:Washington', 'taster_twitter_handle:@wawinereport'] 支持度：4554
+
+频繁模式：['region_2:Columbia Valley', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['country:US', 'region_2:Columbia Valley', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['province:Washington', 'region_2:Columbia Valley', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['country:US', 'province:Washington', 'region_2:Columbia Valley', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4966
+
+频繁模式：['country:US', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4934
+
+频繁模式：['province:Washington', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4554
+
+频繁模式：['country:US', 'province:Washington', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4554
+
+频繁模式：['region_2:Columbia Valley', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['country:US', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['province:Washington', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['country:US', 'province:Washington', 'region_2:Columbia Valley', 'taster_name:Sean P. Sullivan', 'taster_twitter_handle:@wawinereport'] 支持度：4261
+
+频繁模式：['region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['country:US', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['province:Washington', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['country:US', 'province:Washington', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['region_2:Columbia Valley', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['country:US', 'region_2:Columbia Valley', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['province:Washington', 'region_2:Columbia Valley', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['country:US', 'province:Washington', 'region_2:Columbia Valley', 'region_1:Columbia Valley (WA)'] 支持度：4124
+
+频繁模式：['price:25.0'] 支持度：5805
+
+频繁模式：['region_2:Central Coast', 'price:25.0'] 支持度：3749
+
+频繁模式：['province:Burgundy'] 支持度：3980
+
+频繁模式：['region_2:Central Coast', 'province:Burgundy'] 支持度：3980
+
+频繁模式：['taster_twitter_handle:@vossroger', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['taster_name:Roger Voss', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['country:France', 'province:Burgundy'] 支持度：3980
+
+频繁模式：['region_2:Central Coast', 'country:France', 'province:Burgundy'] 支持度：3980
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['taster_name:Roger Voss', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'province:Burgundy'] 支持度：3967
+
+频繁模式：['variety:Bordeaux-style Red Blend'] 支持度：6915
+
+频繁模式：['region_2:Central Coast', 'variety:Bordeaux-style Red Blend'] 支持度：5438
+
+频繁模式：['taster_twitter_handle:@vossroger', 'variety:Bordeaux-style Red Blend'] 支持度：5351
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'variety:Bordeaux-style Red Blend'] 支持度：4915
+
+频繁模式：['taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend'] 支持度：5235
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend'] 支持度：4868
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend'] 支持度：5235
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'variety:Bordeaux-style Red Blend'] 支持度：4868
+
+频繁模式：['designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3297
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3172
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3181
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3139
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3176
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3138
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3176
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'variety:Bordeaux-style Red Blend'] 支持度：3138
+
+频繁模式：['country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4725
+
+频繁模式：['region_2:Central Coast', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4725
+
+频繁模式：['designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3138
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3138
+
+频繁模式：['taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'designation:Reserve', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：3128
+
+频繁模式：['taster_twitter_handle:@vossroger', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'country:France', 'variety:Bordeaux-style Red Blend'] 支持度：4710
+
+频繁模式：['taster_name:Jim Gordon'] 支持度：4177
+
+频繁模式：['country:US', 'taster_name:Jim Gordon'] 支持度：4177
+
+频繁模式：['province:California', 'taster_name:Jim Gordon'] 支持度：4173
+
+频繁模式：['country:US', 'province:California', 'taster_name:Jim Gordon'] 支持度：4173
+
+频繁模式：['taster_twitter_handle:@gordone_cellars'] 支持度：4177
+
+频繁模式：['country:US', 'taster_twitter_handle:@gordone_cellars'] 支持度：4177
+
+频繁模式：['province:California', 'taster_twitter_handle:@gordone_cellars'] 支持度：4173
+
+频繁模式：['country:US', 'province:California', 'taster_twitter_handle:@gordone_cellars'] 支持度：4173
+
+频繁模式：['taster_name:Jim Gordon', 'taster_twitter_handle:@gordone_cellars'] 支持度：4177
+
+频繁模式：['country:US', 'taster_name:Jim Gordon', 'taster_twitter_handle:@gordone_cellars'] 支持度：4177
+
+频繁模式：['province:California', 'taster_name:Jim Gordon', 'taster_twitter_handle:@gordone_cellars'] 支持度：4173
+
+频繁模式：['country:US', 'province:California', 'taster_name:Jim Gordon', 'taster_twitter_handle:@gordone_cellars'] 支持度：4173
+
+频繁模式：['taster_name:Joe Czerwinski'] 支持度：5147
+
+频繁模式：['region_2:Central Coast', 'taster_name:Joe Czerwinski'] 支持度：5050
+
+频繁模式：['taster_twitter_handle:@JoeCz'] 支持度：5147
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@JoeCz'] 支持度：5050
+
+频繁模式：['taster_name:Joe Czerwinski', 'taster_twitter_handle:@JoeCz'] 支持度：5147
+
+频繁模式：['region_2:Central Coast', 'taster_name:Joe Czerwinski', 'taster_twitter_handle:@JoeCz'] 支持度：5050
+
+频繁模式：['price:18.0'] 支持度：4883
+
+频繁模式：['region_2:Central Coast', 'price:18.0'] 支持度：3405
+
+频繁模式：['variety:Rosé'] 支持度：3564
+
+频繁模式：['province:Tuscany'] 支持度：5897
+
+频繁模式：['region_2:Central Coast', 'province:Tuscany'] 支持度：5897
+
+频繁模式：['country:Italy', 'province:Tuscany'] 支持度：5897
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'province:Tuscany'] 支持度：5897
+
+频繁模式：['taster_name:Kerin O’Keefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'taster_name:Kerin O’Keefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['country:Italy', 'taster_name:Kerin O’Keefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_name:Kerin O’Keefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['country:Italy', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'taster_name:Kerin O’Keefe', 'taster_twitter_handle:@kerinokeefe', 'province:Tuscany'] 支持度：3451
+
+频繁模式：['points:88'] 支持度：17207
+
+频繁模式：['region_2:Central Coast', 'points:88'] 支持度：11999
+
+频繁模式：['designation:Reserve', 'points:88'] 支持度：5648
+
+频繁模式：['region_2:Central Coast', 'designation:Reserve', 'points:88'] 支持度：3639
+
+频繁模式：['country:Italy', 'points:88'] 支持度：3104
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'points:88'] 支持度：3104
+
+频繁模式：['country:US', 'points:88'] 支持度：7048
+
+频繁模式：['province:California', 'points:88'] 支持度：4279
+
+频繁模式：['country:US', 'province:California', 'points:88'] 支持度：4279
+
+频繁模式：['region_1:Napa Valley', 'points:88'] 支持度：3218
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:88'] 支持度：7076
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:88'] 支持度：5680
+
+频繁模式：['taster_name:Roger Voss', 'points:88'] 支持度：6346
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:88'] 支持度：5360
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:88'] 支持度：6346
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:88'] 支持度：5360
+
+频繁模式：['taster_name:Anne Krebiehl\xa0MW'] 支持度：3685
+
+频繁模式：['region_2:Central Coast', 'taster_name:Anne Krebiehl\xa0MW'] 支持度：3685
+
+频繁模式：['taster_twitter_handle:@AnneInVino'] 支持度：3685
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@AnneInVino'] 支持度：3685
+
+频繁模式：['taster_name:Anne Krebiehl\xa0MW', 'taster_twitter_handle:@AnneInVino'] 支持度：3685
+
+频繁模式：['region_2:Central Coast', 'taster_name:Anne Krebiehl\xa0MW', 'taster_twitter_handle:@AnneInVino'] 支持度：3685
+
+频繁模式：['country:Austria'] 支持度：3345
+
+频繁模式：['region_2:Central Coast', 'country:Austria'] 支持度：3345
+
+频繁模式：['region_1:Napa Valley', 'country:Austria'] 支持度：3345
+
+频繁模式：['region_2:Central Coast', 'region_1:Napa Valley', 'country:Austria'] 支持度：3345
+
+频繁模式：['variety:Syrah'] 支持度：4142
+
+频繁模式：['country:US', 'variety:Syrah'] 支持度：3244
+
+频繁模式：['points:92'] 支持度：9613
+
+频繁模式：['region_2:Central Coast', 'points:92'] 支持度：6544
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:92'] 支持度：3941
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:92'] 支持度：3030
+
+频繁模式：['taster_name:Roger Voss', 'points:92'] 支持度：3720
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:92'] 支持度：3720
+
+频繁模式：['country:US', 'points:92'] 支持度：4522
+
+频繁模式：['province:California', 'points:92'] 支持度：3255
+
+频繁模式：['country:US', 'province:California', 'points:92'] 支持度：3255
+
+频繁模式：['province:Piedmont'] 支持度：3729
+
+频繁模式：['region_2:Central Coast', 'province:Piedmont'] 支持度：3729
+
+频繁模式：['country:Italy', 'province:Piedmont'] 支持度：3729
+
+频繁模式：['region_2:Central Coast', 'country:Italy', 'province:Piedmont'] 支持度：3729
+
+频繁模式：['price:45.0'] 支持度：3135
+
+频繁模式：['points:91'] 支持度：11359
+
+频繁模式：['region_2:Central Coast', 'points:91'] 支持度：7488
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:91'] 支持度：4247
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:91'] 支持度：3511
+
+频繁模式：['taster_name:Roger Voss', 'points:91'] 支持度：3924
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:91'] 支持度：3265
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:91'] 支持度：3924
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:91'] 支持度：3265
+
+频繁模式：['country:US', 'points:91'] 支持度：5308
+
+频繁模式：['province:California', 'points:91'] 支持度：3404
+
+频繁模式：['country:US', 'province:California', 'points:91'] 支持度：3404
+
+频繁模式：['points:90'] 支持度：15410
+
+频繁模式：['region_2:Central Coast', 'points:90'] 支持度：10205
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:90'] 支持度：5974
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:90'] 支持度：4684
+
+频繁模式：['taster_name:Roger Voss', 'points:90'] 支持度：5319
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:90'] 支持度：4326
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:90'] 支持度：5319
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:90'] 支持度：4326
+
+频繁模式：['region_1:Napa Valley', 'points:90'] 支持度：3357
+
+频繁模式：['country:US', 'points:90'] 支持度：6715
+
+频繁模式：['designation:Reserve', 'points:90'] 支持度：4219
+
+频繁模式：['province:California', 'points:90'] 支持度：4542
+
+频繁模式：['country:US', 'province:California', 'points:90'] 支持度：4542
+
+频繁模式：['region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['country:US', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['province:California', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['country:US', 'province:California', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['region_2:Sonoma', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['country:US', 'region_2:Sonoma', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['province:California', 'region_2:Sonoma', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['country:US', 'province:California', 'region_2:Sonoma', 'region_1:Russian River Valley'] 支持度：3091
+
+频繁模式：['points:89'] 支持度：12226
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:89'] 支持度：4353
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'points:89'] 支持度：3457
+
+频繁模式：['country:US', 'points:89'] 支持度：4434
+
+频繁模式：['taster_name:Roger Voss', 'points:89'] 支持度：3749
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:89'] 支持度：3749
+
+频繁模式：['region_2:Central Coast', 'taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:89'] 支持度：3158
+
+频繁模式：['region_2:Central Coast', 'taster_name:Roger Voss', 'points:89'] 支持度：3158
+
+频繁模式：['designation:Reserve', 'points:89'] 支持度：3487
+
+频繁模式：['region_2:Central Coast', 'points:89'] 支持度：9079
+
+频繁模式：['points:83'] 支持度：3025
+
+频繁模式：['points:93'] 支持度：6489
+
+频繁模式：['region_2:Central Coast', 'points:93'] 支持度：4524
+
+频繁模式：['country:US', 'points:93'] 支持度：3013
+
+频繁模式：['points:94'] 支持度：3758
+
+频繁模式：['points:84'] 支持度：6480
+
+频繁模式：['taster_twitter_handle:@vossroger', 'points:84'] 支持度：3617
+
+频繁模式：['region_2:Central Coast', 'points:84'] 支持度：4615
+
+频繁模式：['taster_name:Roger Voss', 'points:84'] 支持度：3418
+
+频繁模式：['taster_twitter_handle:@vossroger', 'taster_name:Roger Voss', 'points:84'] 支持度：3418
+
